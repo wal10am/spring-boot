@@ -13,6 +13,7 @@
 		<revision>2.2.0.BUILD-SNAPSHOT</revision>
 		<main.basedir>${basedir}</main.basedir>
 	</properties>
+	<! -- POOP -->
 	<!-- Most elements are in profiles so they are stripped out during maven-flatten -->
 	<profiles>
 		<!-- Default profile for command line build -->
